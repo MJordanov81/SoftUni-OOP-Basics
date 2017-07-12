@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\ReuseClasses\bin\Debug\ReuseClasses.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\ReuseClasses\bin\Debug\ReuseClasses.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\ReuseClasses\bin\Debug\ReuseClasses.pdb
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\ReuseClasses\obj\Debug\ReuseClasses.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\ReuseClasses\obj\Debug\ReuseClasses.pdb

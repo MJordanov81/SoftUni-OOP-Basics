@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\Mankind\bin\Debug\Mankind.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\Mankind\bin\Debug\Mankind.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\Mankind\bin\Debug\Mankind.pdb
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\Mankind\obj\Debug\03. Mankind.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\Mankind\obj\Debug\Mankind.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\Mankind\obj\Debug\Mankind.pdb

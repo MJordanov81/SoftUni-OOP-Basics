@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.exe
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.pdb
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\04. Shopping Spree.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\_04.Shopping_Spree.exe
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\_04.Shopping_Spree.pdb

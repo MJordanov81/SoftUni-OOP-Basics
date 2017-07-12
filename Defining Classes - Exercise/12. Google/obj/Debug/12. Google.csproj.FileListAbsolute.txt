@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\12. Google\bin\Debug\_12.Google.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\12. Google\bin\Debug\_12.Google.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\12. Google\bin\Debug\_12.Google.pdb
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\12. Google\obj\Debug\12. Google.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\12. Google\obj\Debug\_12.Google.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\12. Google\obj\Debug\_12.Google.pdb

@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\Shapes\bin\Debug\Shapes.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\Shapes\bin\Debug\Shapes.exe
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\Shapes\bin\Debug\Shapes.pdb
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\Shapes\obj\Debug\Shapes.exe
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\Shapes\obj\Debug\Shapes.pdb

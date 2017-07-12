@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\_01.Define_a_Class_Person.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\_01.Define_a_Class_Person.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\_01.Define_a_Class_Person.pdb
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\01. Define a Class Person.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\_01.Define_a_Class_Person.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\_01.Define_a_Class_Person.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism exercises\01. Vehicles\bin\Debug\_01.Vehicles.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism exercises\01. Vehicles\bin\Debug\_01.Vehicles.exe
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism exercises\01. Vehicles\bin\Debug\_01.Vehicles.pdb
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism exercises\01. Vehicles\obj\Debug\01. Vehicles.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism exercises\01. Vehicles\obj\Debug\_01.Vehicles.exe
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism exercises\01. Vehicles\obj\Debug\_01.Vehicles.pdb

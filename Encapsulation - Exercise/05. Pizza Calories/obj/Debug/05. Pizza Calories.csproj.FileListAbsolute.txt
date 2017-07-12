@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.exe
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.pdb
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\05. Pizza Calories.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\_05.Pizza_Calories.exe
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\_05.Pizza_Calories.pdb

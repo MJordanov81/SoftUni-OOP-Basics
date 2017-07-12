@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\13. Family Tree\bin\Debug\_13.Family_Tree.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\13. Family Tree\bin\Debug\_13.Family_Tree.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\13. Family Tree\bin\Debug\_13.Family_Tree.pdb
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\13. Family Tree\obj\Debug\13. Family Tree.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\13. Family Tree\obj\Debug\_13.Family_Tree.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\13. Family Tree\obj\Debug\_13.Family_Tree.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\InheritanceLab\bin\Debug\InheritanceLab.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\InheritanceLab\bin\Debug\InheritanceLab.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\InheritanceLab\bin\Debug\InheritanceLab.pdb
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\InheritanceLab\obj\Debug\InheritanceLab.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\InheritanceLab\obj\Debug\InheritanceLab.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\InheritanceLab\obj\Debug\InheritanceLab.pdb

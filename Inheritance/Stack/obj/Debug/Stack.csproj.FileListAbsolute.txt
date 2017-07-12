@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\Stack\bin\Debug\Stack.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\Stack\bin\Debug\Stack.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\Stack\bin\Debug\Stack.pdb
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\Stack\obj\Debug\Stack.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance\Stack\obj\Debug\Stack.pdb

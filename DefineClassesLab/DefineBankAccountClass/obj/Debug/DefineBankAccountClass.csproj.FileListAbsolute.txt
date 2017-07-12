@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\DefineClassesLab\DefineBankAccountClass\bin\Debug\DefineBankAccountClass.exe.config
+D:\GitHub\SoftUni-OOP-Basics\DefineClassesLab\DefineBankAccountClass\bin\Debug\DefineBankAccountClass.exe
+D:\GitHub\SoftUni-OOP-Basics\DefineClassesLab\DefineBankAccountClass\bin\Debug\DefineBankAccountClass.pdb
+D:\GitHub\SoftUni-OOP-Basics\DefineClassesLab\DefineBankAccountClass\obj\Debug\DefineBankAccountClass.exe
+D:\GitHub\SoftUni-OOP-Basics\DefineClassesLab\DefineBankAccountClass\obj\Debug\DefineBankAccountClass.pdb
+D:\GitHub\SoftUni-OOP-Basics\DefineClassesLab\DefineBankAccountClass\obj\Debug\DefineBankAccountClass.csprojResolveAssemblyReference.cache

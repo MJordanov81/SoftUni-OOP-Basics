@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\MathOperationsExercise\bin\Debug\MathOperationsExercise.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\MathOperationsExercise\bin\Debug\MathOperationsExercise.exe
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\MathOperationsExercise\bin\Debug\MathOperationsExercise.pdb
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\MathOperationsExercise\obj\Debug\MathOperationsExercise.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\MathOperationsExercise\obj\Debug\MathOperationsExercise.exe
+D:\GitHub\SoftUni-OOP-Basics\Polymorphism\MathOperationsExercise\obj\Debug\MathOperationsExercise.pdb

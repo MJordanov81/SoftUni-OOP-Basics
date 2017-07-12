@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationOne\NFS\bin\Debug\NFS.exe.config
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationOne\NFS\bin\Debug\NFS.exe
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationOne\NFS\bin\Debug\NFS.pdb
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationOne\NFS\obj\Debug\NFS.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationOne\NFS\obj\Debug\NFS.exe
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationOne\NFS\obj\Debug\NFS.pdb

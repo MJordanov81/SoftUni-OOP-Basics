@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\06. Animals\bin\Debug\_06.Animals.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\06. Animals\bin\Debug\_06.Animals.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\06. Animals\bin\Debug\_06.Animals.pdb
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\06. Animals\obj\Debug\06. Animals.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\06. Animals\obj\Debug\_06.Animals.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\06. Animals\obj\Debug\_06.Animals.pdb

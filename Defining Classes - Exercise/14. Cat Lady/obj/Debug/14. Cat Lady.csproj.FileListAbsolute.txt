@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\14. Cat Lady\bin\Debug\_14.Cat_Lady.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\14. Cat Lady\bin\Debug\_14.Cat_Lady.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\14. Cat Lady\bin\Debug\_14.Cat_Lady.pdb
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\14. Cat Lady\obj\Debug\14. Cat Lady.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\14. Cat Lady\obj\Debug\_14.Cat_Lady.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\14. Cat Lady\obj\Debug\_14.Cat_Lady.pdb

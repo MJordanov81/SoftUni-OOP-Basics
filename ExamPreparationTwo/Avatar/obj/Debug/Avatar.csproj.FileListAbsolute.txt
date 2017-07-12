@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationTwo\Avatar\bin\Debug\Avatar.exe.config
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationTwo\Avatar\bin\Debug\Avatar.exe
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationTwo\Avatar\bin\Debug\Avatar.pdb
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationTwo\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationTwo\Avatar\obj\Debug\Avatar.exe
+D:\GitHub\SoftUni-OOP-Basics\ExamPreparationTwo\Avatar\obj\Debug\Avatar.pdb

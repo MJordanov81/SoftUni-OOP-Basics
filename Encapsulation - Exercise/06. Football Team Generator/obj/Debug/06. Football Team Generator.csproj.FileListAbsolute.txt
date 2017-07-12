@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\06. Football Team Generator\bin\Debug\_06.Football_Team_Generator.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\06. Football Team Generator\bin\Debug\_06.Football_Team_Generator.exe
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\06. Football Team Generator\bin\Debug\_06.Football_Team_Generator.pdb
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\06. Football Team Generator\obj\Debug\06. Football Team Generator.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\06. Football Team Generator\obj\Debug\_06.Football_Team_Generator.exe
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation - Exercise\06. Football Team Generator\obj\Debug\_06.Football_Team_Generator.pdb

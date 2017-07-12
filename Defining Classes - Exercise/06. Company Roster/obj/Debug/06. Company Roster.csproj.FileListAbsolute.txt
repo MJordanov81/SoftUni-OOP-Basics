@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\06. Company Roster\bin\Debug\_06.Company_Roster.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\06. Company Roster\bin\Debug\_06.Company_Roster.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\06. Company Roster\bin\Debug\_06.Company_Roster.pdb
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\06. Company Roster\obj\Debug\06. Company Roster.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\06. Company Roster\obj\Debug\_06.Company_Roster.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\06. Company Roster\obj\Debug\_06.Company_Roster.pdb

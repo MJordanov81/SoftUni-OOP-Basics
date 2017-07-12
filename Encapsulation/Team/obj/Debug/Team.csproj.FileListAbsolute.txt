@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation\Team\bin\Debug\Team.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation\Team\bin\Debug\Team.exe
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation\Team\bin\Debug\Team.pdb
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation\Team\obj\Debug\Team.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation\Team\obj\Debug\Team.exe
+D:\GitHub\SoftUni-OOP-Basics\Encapsulation\Team\obj\Debug\Team.pdb

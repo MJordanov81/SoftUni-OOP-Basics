@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\07. Speed Racing\bin\Debug\_07.Speed_Racing.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\07. Speed Racing\bin\Debug\_07.Speed_Racing.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\07. Speed Racing\bin\Debug\_07.Speed_Racing.pdb
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\07. Speed Racing\obj\Debug\07. Speed Racing.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\07. Speed Racing\obj\Debug\_07.Speed_Racing.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\07. Speed Racing\obj\Debug\_07.Speed_Racing.pdb

@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\01. Person\bin\Debug\_01.Person.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\01. Person\bin\Debug\_01.Person.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\01. Person\bin\Debug\_01.Person.pdb
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\01. Person\obj\Debug\_01.Person.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\01. Person\obj\Debug\_01.Person.pdb

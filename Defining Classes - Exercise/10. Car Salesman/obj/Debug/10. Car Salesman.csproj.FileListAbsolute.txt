@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\10. Car Salesman\bin\Debug\_10.Car_Salesman.pdb
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\10. Car Salesman\obj\Debug\10. Car Salesman.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\10. Car Salesman\obj\Debug\_10.Car_Salesman.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\10. Car Salesman\obj\Debug\_10.Car_Salesman.pdb

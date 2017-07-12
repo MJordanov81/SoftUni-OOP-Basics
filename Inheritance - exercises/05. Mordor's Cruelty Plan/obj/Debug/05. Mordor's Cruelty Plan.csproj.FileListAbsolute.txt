@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\05. Mordor's Cruelty Plan\bin\Debug\_05.Mordor_s_Cruelty_Plan.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\05. Mordor's Cruelty Plan\bin\Debug\_05.Mordor_s_Cruelty_Plan.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\05. Mordor's Cruelty Plan\bin\Debug\_05.Mordor_s_Cruelty_Plan.pdb
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\05. Mordor's Cruelty Plan\obj\Debug\05. Mordor's Cruelty Plan.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\05. Mordor's Cruelty Plan\obj\Debug\_05.Mordor_s_Cruelty_Plan.exe
+D:\GitHub\SoftUni-OOP-Basics\Inheritance - exercises\05. Mordor's Cruelty Plan\obj\Debug\_05.Mordor_s_Cruelty_Plan.pdb

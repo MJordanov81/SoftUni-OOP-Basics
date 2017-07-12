@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\05.Date Modifier\bin\Debug\05.Date Modifier.exe.config
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\05.Date Modifier\bin\Debug\05.Date Modifier.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\05.Date Modifier\bin\Debug\05.Date Modifier.pdb
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\05.Date Modifier\obj\Debug\05.Date Modifier.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\05.Date Modifier\obj\Debug\05.Date Modifier.exe
+D:\GitHub\SoftUni-OOP-Basics\Defining Classes - Exercise\05.Date Modifier\obj\Debug\05.Date Modifier.pdb
