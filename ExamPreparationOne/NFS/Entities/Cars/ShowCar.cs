@@ -9,11 +9,6 @@ public class ShowCar : Car
     {
     }
 
-    public int Stars
-    {
-        get { return stars; }
-        set { stars = value; }
-    }
     public override string ToString()
     {
         var result = new StringBuilder();
@@ -22,6 +17,13 @@ public class ShowCar : Car
         result.AppendLine($"{this.stars} *");
 
         return result.ToString().Trim();
+    }
+
+    public override void TuneCar(int tuneIndex, string addOn)
+    {
+        base.TuneCar(tuneIndex, addOn);
+
+        this.stars += tuneIndex;
     }
 }
 

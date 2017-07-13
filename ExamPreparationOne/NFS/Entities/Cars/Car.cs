@@ -5,84 +5,79 @@ public abstract class Car
     private string brand;
     private string model;
     private int yearOfProduction;
-    private int horsepower;
+    protected int horsepower;
     private int acceleration;
-    private int suspension;
+    protected int suspension;
     private int durability;
+    private int carPoints;
 
     public Car(string brand, string model, int yearOfProduction, int horsepower, int acceleration, int suspension, int durability)
     {
-        this.Brand = brand;
-        this.Model = model;
-        this.YearOfProduction = yearOfProduction;
-        this.Horsepower = horsepower;
-        this.Acceleration = acceleration;
-        this.Suspension = suspension;
-        this.Durability = durability;
+        this.brand = brand;
+        this.model = model;
+        this.yearOfProduction = yearOfProduction;
+        this.horsepower = horsepower;
+        this.acceleration = acceleration;
+        this.suspension = suspension;
+        this.durability = durability;
     }
-
 
     public int Durability
     {
         get { return durability; }
-        set { durability = value; }
     }
-
-
 
     public virtual int Suspension
     {
         get { return suspension; }
-        set { suspension = value; }
     }
-
 
     public int Acceleration
     {
         get { return acceleration; }
-        set { acceleration = value; }
     }
-
-
 
     public virtual int Horsepower
     {
         get { return horsepower; }
-        set { horsepower = value; }
     }
-
-
-    public int YearOfProduction
-    {
-        get { return yearOfProduction; }
-        set { yearOfProduction = value; }
-    }
-
 
     public string Model
     {
         get { return model; }
-        set { model = value; }
     }
-
 
     public string Brand
     {
         get { return brand; }
-        set { brand = value; }
     }
 
-    public int CarPoints { get; set; }
+    public int CarPoints
+    {
+        get { return this.carPoints; }
+        set { this.carPoints = value; }
+    }
 
     public override string ToString()
     {
         var result = new StringBuilder();
 
-        result.AppendLine($"{this.Brand} {this.Model} {this.YearOfProduction}");
-        result.AppendLine($"{this.Horsepower} HP, 100 m/h in {this.Acceleration} s");
-        result.AppendLine($"{this.Suspension} Suspension force, {this.Durability} Durability");
+        result.AppendLine($"{this.brand} {this.model} {this.yearOfProduction}");
+        result.AppendLine($"{this.horsepower} HP, 100 m/h in {this.acceleration} s");
+        result.AppendLine($"{this.suspension} Suspension force, {this.durability} Durability");
 
         return result.ToString().Trim();
+    }
+
+    public virtual void TuneCar(int tuneIndex, string addOn)
+    {
+        this.horsepower += tuneIndex;
+        this.suspension += tuneIndex / 2;
+    }
+
+    public void DecreaseDurability(int decrease)
+    {
+        this.durability -= decrease;
     }
 }
 

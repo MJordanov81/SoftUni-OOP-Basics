@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core\CalculateWinnersAndPrizes.cs" />
     <Compile Include="Core\CarManager.cs" />
     <Compile Include="Core\CommandInterpreter.cs" />
     <Compile Include="Entities\Cars\Car.cs" />

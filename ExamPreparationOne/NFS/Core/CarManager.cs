@@ -10,27 +10,9 @@ public class CarManager
 
     public CarManager()
     {
-        this.Cars = new Dictionary<int, Car>();
-        this.Races = new Dictionary<int, Race>();
-        this.Garage = new Garage();
-    }
-
-    public Garage Garage
-    {
-        get { return garage; }
-        set { garage = value; }
-    }
-
-    public Dictionary<int, Race> Races
-    {
-        get { return races; }
-        set { races = value; }
-    }
-
-    public Dictionary<int, Car> Cars
-    {
-        get { return cars; }
-        set { cars = value; }
+        this.cars = new Dictionary<int, Car>();
+        this.races = new Dictionary<int, Race>();
+        this.garage = new Garage();
     }
 
     public void Register(int id, string type, string brand, string model, int yearOfProduction, int horsepower,
@@ -61,60 +43,40 @@ public class CarManager
 
     public void Participate(int carId, int raceId)
     {
-        var currentCar = this.Cars[carId];
-        var currentRace = this.Races[raceId];
+        var currentCar = this.cars[carId];
+        var currentRace = this.races[raceId];
 
-        if (!this.Garage.ParkedCars.Contains(currentCar))
+        if (!this.garage.ParkedCars.Contains(currentCar))
         {
-            if (this.Races.ContainsKey(raceId))
-            {
-                if (currentRace is TimeLimitRace)
-                {
-                    if (currentRace.Participants.Count == 0)
-                    {
-                        currentRace.Participants.Add(currentCar);
-                    }
-                }
-                else
-                {
-                    currentRace.Participants.Add(currentCar);
-                }               
-            }
+            currentRace.AddParticipant(currentCar);                  
         }
     }
 
     public string Start(int id)
     {
-        if (this.Races.ContainsKey(id))
+        var result = String.Empty;
+
+        if (this.races[id].Participants.Count <= 0)
         {
-            if (this.Races[id].Participants.Count <= 0)
-            {
-                return "Cannot start the race with zero participants.\n";
-            }
-            else
-            {
-                var result = CalculateWinnersAndPrizes.CalculateAndPrintWinnersAndPrizes(this.Races[id]);
-
-                if (this.Races[id] is CircuitRace)
-                {
-                    DecreaseDurability(Races[id]);
-                }
-
-                this.Races.Remove(id);
-                return result;
-            }
+            result = "Cannot start the race with zero participants.\n";
+        }
+        else
+        {
+            this.races[id].CalculatePoints();
+            result = this.races[id].GetWinnersPrintout();
+            this.races.Remove(id);
         }
 
-        return String.Empty;
+        return result;
     }
 
     public void Park(int id)
     {
-        var currentCar = this.Cars[id];
+        var currentCar = this.cars[id];
 
         bool carIsNotParticipant = true;
 
-        foreach (var race in this.Races)
+        foreach (var race in this.races)
         {
             if (race.Value.Participants.Contains(currentCar))
             {
@@ -125,48 +87,29 @@ public class CarManager
 
         if (carIsNotParticipant)
         {
-            this.Garage.ParkedCars.Add(currentCar);
+            this.garage.ParkedCars.Add(currentCar);
         }
     }
 
     public void Unpark(int id)
     {
-        var currentCar = this.Cars[id];
+        var currentCar = this.cars[id];
 
-        if (this.Garage.ParkedCars.Contains(currentCar))
+        if (this.garage.ParkedCars.Contains(currentCar))
         {
-            this.Garage.ParkedCars.Remove(currentCar);
+            this.garage.ParkedCars.Remove(currentCar);
         }
 
     }
 
     public void Tune(int tuneIndex, string addOn)
     {
-        if (this.Garage.ParkedCars.Count > 0)
+        if (this.garage.ParkedCars.Count > 0)
         {
-            foreach (var car in this.Garage.ParkedCars)
+            foreach (var car in this.garage.ParkedCars)
             {
-                car.Horsepower += tuneIndex;
-                car.Suspension += tuneIndex / 2;
-
-                if (car is ShowCar)
-                {
-                    (car as ShowCar).Stars += tuneIndex;
-                }
-
-                else 
-                {
-                    (car as PerformanceCar).AddOns.Add(addOn);
-                }
+                car.TuneCar(tuneIndex, addOn);
             }
-        }
-    }
-
-    private void DecreaseDurability(Race race)
-    {
-        foreach (var car in race.Participants)
-        {
-            car.Durability -= (race as CircuitRace).Laps * race.Length * race.Length;
         }
     }
 }

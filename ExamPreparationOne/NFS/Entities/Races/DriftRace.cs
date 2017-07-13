@@ -7,5 +7,13 @@ public class DriftRace : Race
         : base(length, route, prizePool)
     {
     }
+
+    public override void CalculatePoints()
+    {
+        foreach (var car in this.participants)
+        {
+            car.CarPoints = car.Suspension + car.Durability;
+        }
+    }
 }
 

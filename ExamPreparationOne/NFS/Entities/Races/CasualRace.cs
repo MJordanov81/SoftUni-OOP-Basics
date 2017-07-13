@@ -7,5 +7,13 @@ public class CasualRace : Race
         : base(length, route, prizePool)
     {
     }
+
+    public override void CalculatePoints()
+    {
+        foreach (var car in this.participants)
+        {
+            car.CarPoints = car.Horsepower / car.Acceleration + car.Suspension + car.Durability;
+        }
+    }
 }
 
